@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Jarvis Career",
+      "hasCanvas": false,
+      "bodyTextLen": 338,
+      "bodyTextHash": "2125013f49565f3f05e3020fc5f7d89811040729bbe8a33ac054564f548c01c0",
+      "bodyTextPrefix": "JARVIS CAREER Sign in Continue with Google to keep missions, fre",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Jarvis Career",
+      "hasCanvas": false,
+      "bodyTextLen": 338,
+      "bodyTextHash": "2125013f49565f3f05e3020fc5f7d89811040729bbe8a33ac054564f548c01c0",
+      "bodyTextPrefix": "JARVIS CAREER Sign in Continue with Google to keep missions, fre",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
